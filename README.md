@@ -4,6 +4,9 @@ This is the 4th assignment for PBA MLAI spring2019soft
 # What it is
 This is a repo consisting solely of a markdown file in response to [machine learning assignment4](https://github.com/datsoftlyngby/soft2019spring-ai/tree/master/project4)<br>
 <br>
+
+*This report was made by Yosuke Ueda(cph-yu173) and Jacob Sørensen(cph-js284)*
+
 ## Part 1
 <br>
 <b>Hand-in:</b><br>
@@ -30,7 +33,7 @@ This is a repo consisting solely of a markdown file in response to [machine lear
       - You do not have to do any preprocessing (yet)<br>
 <br>
 <br>
-2.a) [Datasource](https://www.kaggle.com/ankkur13/boston-crime-data)
+2.a) Our datasource can be found here https://www.kaggle.com/ankkur13/boston-crime-data
 <br>
 This dataset has 2,60,760 rows and 17 columns.<br>
 INCIDENT_NUMBER: (this is a unique identifier)<br>
@@ -45,7 +48,7 @@ YEAR: (Self explanatory) <br>
 MONTH:(Self explanatory) <br>
 DAY_OF_WEEK:(Self explanatory)<br> 
 HOUR:(Self explanatory) <br>
-UCR_PART: ([uniform-crime-report](https://en.wikipedia.org/wiki/Uniform_Crime_Reports) national category of the type of crime)<br>
+UCR_PART: (uniform-crime-report detailed explanation here https://en.wikipedia.org/wiki/Uniform_Crime_Reports national category of the type of crime)<br>
 STREET:(Self explanatory) <br>
 LATITUDE:(Self explanatory) <br>
 LONGITUDE:(Self explanatory) <br>
