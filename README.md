@@ -6,10 +6,11 @@ This is a repo consisting solely of a markdown file in response to [machine lear
 <br>
 ## Part 1
 <br>
-<b>Hand-in:</b>
+<b>Hand-in:</b><br>
   - A precisely formulated question using no more than 20 words
   - At least 50 words of text that motivates why the business question is interesting
   - At least 40 words of text that describes which concepts from class you will have to use to answer the question.
+  
 <br>
 1.a)Be able to predict when and where crime will happen in Boston (year :2018)<br>
 <br>
