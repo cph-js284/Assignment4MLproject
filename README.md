@@ -7,10 +7,10 @@ This is a repo consisting solely of a markdown file in response to [machine lear
 ## Part 1
 <br>
 <b>Hand-in:</b><br>
-  - A precisely formulated question using no more than 20 words
-  - At least 50 words of text that motivates why the business question is interesting
-  - At least 40 words of text that describes which concepts from class you will have to use to answer the question.
-  
+  - A precisely formulated question using no more than 20 words<br>
+  - At least 50 words of text that motivates why the business question is interesting<br>
+  - At least 40 words of text that describes which concepts from class you will have to use to answer the question.<br>
+<br>  
 <br>
 1.a)Be able to predict when and where crime will happen in Boston (year :2018)<br>
 <br>
@@ -18,11 +18,13 @@ This is a repo consisting solely of a markdown file in response to [machine lear
 <br>
 1.c) We plan on using the following concepts: predictive analysis using trained models. We will also be using correlation analysis to find the most (un)import features, we will be using scoring mechanisms to measure the accuracy of the predictions we make<br>
 <br>
+<br>
 ## Part 2
 <b>Hand-in:</b>
-  - A link to the data resource online along with at least 20 words of text describing the data source
-      - Include a description of the data features and the size of the data
-      - If you do not have enough data points, include the points from the section on 'If you do not have enough data points'
-  - An automated method to download the data in a .py file
-      - You do not have to do any preprocessing (yet)
-
+  - A link to the data resource online along with at least 20 words of text describing the data source<br>
+      - Include a description of the data features and the size of the data<br>
+      - If you do not have enough data points, include the points from the section on 'If you do not have enough data points'<br>
+  - An automated method to download the data in a .py file<br>
+      - You do not have to do any preprocessing (yet)<br>
+<br>
+<br>
