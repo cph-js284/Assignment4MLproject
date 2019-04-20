@@ -19,7 +19,9 @@ This is a repo consisting solely of a markdown file in response to [machine lear
 1.c) We plan on using the following concepts: predictive analysis using trained models. We will also be using correlation analysis to find the most (un)import features, we will be using scoring mechanisms to measure the accuracy of the predictions we make<br>
 <br>
 <br>
+
 ## Part 2
+
 <b>Hand-in:</b><br>
   - A link to the data resource online along with at least 20 words of text describing the data source<br>
       - Include a description of the data features and the size of the data<br>
@@ -28,8 +30,8 @@ This is a repo consisting solely of a markdown file in response to [machine lear
       - You do not have to do any preprocessing (yet)<br>
 <br>
 <br>
-2.a) [our_datasource](https://www.kaggle.com/ankkur13/boston-crime-data) <br>
-
+2.a) [Datasource](https://www.kaggle.com/ankkur13/boston-crime-data)
+<br>
 This dataset has 2,60,760 rows and 17 columns.<br>
 INCIDENT_NUMBER: (this is a unique identifier)<br>
 OFFENSE_CODE: (Self explanatory) <br>
@@ -54,7 +56,9 @@ LOCATION:(LAT and LONG in one field)<br>
 2.b we plan on using Pandas \*.read_csv(path to data) to download our data into the jupyter notebook<br>
 <br>
 <br>
+
 ## Part 3
+
 <b>Hand-in:</b><br>
 - At least 40 words describing how the data can help you answer your business question<br>
 - At least 3 model types that can help you answer your business question<br>
