@@ -15,7 +15,7 @@ This is a repo consisting solely of a markdown file in response to [machine lear
   - At least 40 words of text that describes which concepts from class you will have to use to answer the question.<br>
 <br>  
 <br>
-1.a)Be able to predict when and where crime will happen in Boston (year :2018)<br>
+1.a)Be able to predict when and where crime will happen in Boston<br>
 <br>
 1.b) It would be interesting to be able to predict where crime will happen in order to be able to take preventive measures, this is will help reduce human suffering (being victim of a crime) and it will also help to target the police ressources and thereby reducing costs to the city. (Is it possible to enter last years crime stats and be able to predict this years crime stats)<br>
 <br>
